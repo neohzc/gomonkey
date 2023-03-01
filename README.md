@@ -1,6 +1,11 @@
 # gomonkey
 
-gomonkey is a library to make monkey patching in unit tests easy, and the core idea of monkey patching comes from [Bouke](https://github.com/bouk), you can read [this blogpost](https://bou.ke/blog/monkey-patching-in-go/) for an explanation on how it works.
+个人使用 针对gomonkey 在macOS13 m1 环境下无法同时申请分页读写和执行权限导致的mock失败问题进行修改 仅供个人使用 斟酌使用
+fork https://github.com/agiledragon/gomonkey
+## 拉取
+```go
+$ go get github.com/neohzc/gomonkey
+```
 
 ## Features
 
