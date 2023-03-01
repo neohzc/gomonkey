@@ -1,10 +1,10 @@
 package test
 
 import (
-	"github.com/agiledragon/gomonkey/v2/test/fake"
+	"github.com/neohzc/gomonkey/test/fake"
 	"testing"
 
-	. "github.com/agiledragon/gomonkey/v2"
+	. "github.com/neohzc/gomonkey"
 	. "github.com/smartystreets/goconvey/convey"
 )
 

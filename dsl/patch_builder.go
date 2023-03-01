@@ -2,9 +2,8 @@ package dsl
 
 import (
 	"fmt"
+	. "github.com/neohzc/gomonkey"
 	"reflect"
-
-	. "github.com/agiledragon/gomonkey/v2"
 )
 
 type FuncPara struct {

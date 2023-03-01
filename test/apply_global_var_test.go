@@ -3,7 +3,7 @@ package test
 import (
 	"testing"
 
-	. "github.com/agiledragon/gomonkey/v2"
+	. "github.com/neohzc/gomonkey"
 	. "github.com/smartystreets/goconvey/convey"
 )
 
